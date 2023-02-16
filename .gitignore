@@ -1,0 +1,9 @@
+.idea
+/public/reference
+/public/library
+/public/_images
+/public/indexes.json
+/public/plugin.json
+/public/python-*-docs-html
+/python-*-docs-html
+/python-*-docs-html.zip
